@@ -1,0 +1,14 @@
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\bin\Debug\net6.0\ProposedExercise.exe
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\bin\Debug\net6.0\ProposedExercise.deps.json
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\bin\Debug\net6.0\ProposedExercise.runtimeconfig.json
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\bin\Debug\net6.0\ProposedExercise.dll
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\bin\Debug\net6.0\ProposedExercise.pdb
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\obj\Debug\net6.0\ProposedExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\obj\Debug\net6.0\ProposedExercise.AssemblyInfoInputs.cache
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\obj\Debug\net6.0\ProposedExercise.AssemblyInfo.cs
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\obj\Debug\net6.0\ProposedExercise.csproj.CoreCompileInputs.cache
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\obj\Debug\net6.0\ProposedExercise.dll
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\obj\Debug\net6.0\refint\ProposedExercise.dll
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\obj\Debug\net6.0\ProposedExercise.pdb
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\obj\Debug\net6.0\ProposedExercise.genruntimeconfig.cache
+C:\Users\Robert Umbler\source\repos\CursoUdemy\ProposedExercise\obj\Debug\net6.0\ref\ProposedExercise.dll

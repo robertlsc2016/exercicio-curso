@@ -1,0 +1,14 @@
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\bin\Debug\net6.0\CursoUdemy.exe
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\bin\Debug\net6.0\CursoUdemy.deps.json
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\bin\Debug\net6.0\CursoUdemy.runtimeconfig.json
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\bin\Debug\net6.0\CursoUdemy.dll
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\bin\Debug\net6.0\CursoUdemy.pdb
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\obj\Debug\net6.0\CursoUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\obj\Debug\net6.0\CursoUdemy.AssemblyInfoInputs.cache
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\obj\Debug\net6.0\CursoUdemy.AssemblyInfo.cs
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\obj\Debug\net6.0\CursoUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\obj\Debug\net6.0\CursoUdemy.dll
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\obj\Debug\net6.0\refint\CursoUdemy.dll
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\obj\Debug\net6.0\CursoUdemy.pdb
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\obj\Debug\net6.0\CursoUdemy.genruntimeconfig.cache
+C:\Users\Robert Umbler\source\repos\CursoUdemy\CursoUdemy\obj\Debug\net6.0\ref\CursoUdemy.dll
