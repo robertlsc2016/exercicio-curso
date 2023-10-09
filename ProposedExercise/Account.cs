@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,11 +14,20 @@ namespace ProposedExercise
         public double AccountBalance { get; private set; }
 
 
-        public Account(double accountNumber, string accountName, double accountBalance)
+        public Account(double accountNumber, string accountName)
         {
             AccountNumber = accountNumber;
             AccountName = accountName;
-            AccountBalance = accountBalance;
+        }
+
+        public Account(double accountNumber, string accountName, double accountBalance) : this(accountNumber, accountName)
+        {
+            AddBalance(accountBalance);
+        }
+
+        public override string ToString()
+        {
+            return $"Conta: {AccountNumber}, Titular: {AccountName}, Saldo Atual: R$ {AccountBalance.ToString("F2", CultureInfo.InvariantCulture)}";
         }
 
         public void AddBalance(double balance)
